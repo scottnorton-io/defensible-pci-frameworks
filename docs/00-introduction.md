@@ -1,5 +1,3 @@
-# 00-introduction.md
-
 # Introduction: Defensible PCI DSS Compliance
 
 ## The Problem with Checkbox Compliance
