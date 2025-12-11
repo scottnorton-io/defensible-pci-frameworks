@@ -209,32 +209,26 @@ Each PCI DSS requirement maps to one or more frameworks:
 ## Implementation Pathways
 
 ### Path 1: Quick Wins (30-90 days)
-
 Prioritize frameworks with high impact and low complexity:
-
-1. Phishing Attack Defense (MFA + awareness training)
-2. System Hardening (remove default passwords, disable unused services)
-3. Authentication & Authorization (enforce least privilege)
+1. [Phishing Attack Defense](frameworks/phishing-defense.md) (MFA + awareness training)
+2. [System Hardening](frameworks/system-hardening.md) (remove default passwords, disable unused services)
+3. [Authentication & Authorization](frameworks/authentication-authorization.md) (enforce least privilege)
 
 ### Path 2: Data Protection Focus (60-120 days)
-
 For organizations with existing access controls:
-
-1. Data Exfiltration Prevention (discovery + minimization)
-2. Encryption & Key Management (encrypt at rest)
-3. Insider Threat Defense (behavioral monitoring)
+1. [Data Exfiltration Prevention](frameworks/data-exfiltration-prevention.md) (discovery + minimization)
+2. [Encryption & Key Management](frameworks/encryption-key-mgmt.md) (encrypt at rest)
+3. [Insider Threat Defense](frameworks/insider-threat-defense.md) (behavioral monitoring)
 
 ### Path 3: Comprehensive Build (180+ days)
-
 For new implementations:
-
-1. Security Policy & Governance (establish foundation)
-2. Authentication & Authorization + System Hardening (build core controls)
-3. Phishing Defense + Physical Security (prevent initial access)
-4. Data Exfiltration + Encryption (protect data layer)
-5. Insider Threat + Vendor Risk (monitor legitimate access)
-6. DoS Mitigation + Zero-Day Response (build resilience)
-7. Security Awareness Training (continuous throughout)
+1. [Security Policy & Governance](frameworks/policy-governance.md) (establish foundation)
+2. [Authentication & Authorization](frameworks/authentication-authorization.md) + [System Hardening](frameworks/system-hardening.md) (build core controls)
+3. [Phishing Defense](frameworks/phishing-defense.md) + [Physical Security](frameworks/physical-security.md) (prevent initial access)
+4. [Data Exfiltration](frameworks/data-exfiltration-prevention.md) + [Encryption](frameworks/encryption-key-mgmt.md) (protect data layer)
+5. [Insider Threat](frameworks/insider-threat-defense.md) + [Vendor Risk](frameworks/vendor-risk-management.md) (monitor legitimate access)
+6. [DoS Mitigation](frameworks/dos-attack-mitigation.md) + [Zero-Day Response](frameworks/zero-day-response.md) (build resilience)
+7. [Security Awareness Training](frameworks/security-training.md) (continuous throughout)
 
 ## Measuring Defense Effectiveness
 
