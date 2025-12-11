@@ -1,5 +1,3 @@
-# insider-threat-defense.md
-
 # Insider Threat Defense Framework: When the Call Comes from Inside the House
 
 Insider threats present unique challenges because attackers operate with legitimate credentials and authorized access. Technical perimeter defenses designed to keep outsiders out prove ineffective against users who are already inside. Defense requires visibility into normal behavior patterns, strict access controls that limit damage potential, and monitoring that detects abuse of legitimate privileges.
