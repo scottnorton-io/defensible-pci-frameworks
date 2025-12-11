@@ -1,5 +1,3 @@
-# security-training.md
-
 # Security Awareness and Training Framework: Turning Your People from Potential Vulnerabilities into Active Defenders
 
 Security awareness training addresses the human element in security architecture. Technical controls protect systems, but human decision-making determines whether those controls function as designed. Training transforms personnel from potential vulnerabilities into active defenders.
