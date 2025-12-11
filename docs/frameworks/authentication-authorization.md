@@ -1,5 +1,3 @@
-# authentication-authorization.md
-
 # Authentication and Authorization Control Framework: Keeping the Keys to the Castle in the Right Hands
 
 Authentication verifies identity, while authorization controls access to resources. Together, they form the foundation of access control. Weak authentication allows unauthorized access regardless of authorization controls, while improper authorization grants excessive privileges to authenticated users.
