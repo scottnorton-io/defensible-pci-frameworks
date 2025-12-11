@@ -1,5 +1,3 @@
-# physical-security.md
-
 # Physical Security Framework: Protecting Your Data from the Real-World Threats You Can't See on a Screen
 
 Physical security protects against threats requiring physical presence—facility intrusion, device theft, hardware tampering. Digital security controls offer no protection against adversaries with physical access to systems, making physical security fundamental to overall defense.
