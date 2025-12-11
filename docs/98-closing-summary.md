@@ -1,5 +1,3 @@
-# 98-closing-summary.md
-
 # Closing Summary: Building a Comprehensive Defense with PCI DSS
 
 ## Implementation Summary
