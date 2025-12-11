@@ -1,5 +1,3 @@
-# addendum-platform0.md
-
 # Platform0 Addendum: Security-by-Default Implementation Patterns
 
 This addendum demonstrates how Platform0, a Docker-first developer platform starter kit, implements PCI DSS defensive frameworks as built-in architectural patterns rather than retrofitted compliance measures.
