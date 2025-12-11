@@ -1,5 +1,3 @@
-# data-exfiltration-prevention.md
-
 # Data Exfiltration Prevention Framework: Keeping Cardholder Data Where It Belongs
 
 Data exfiltration represents the ultimate security control failure—attackers successfully locate sensitive data, gain access, extract it from the environment, and evade detection during the process. Preventing exfiltration requires defense in depth across multiple control layers, assuming that perimeter defenses will eventually fail and preparing internal controls to contain the breach.
