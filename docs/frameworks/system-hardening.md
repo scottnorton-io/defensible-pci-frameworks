@@ -1,5 +1,3 @@
-# system-hardening.md
-
 # System Hardening and Configuration Management Framework: Locking Down the Basics So Attackers Can't Get In
 
 System hardening eliminates unnecessary attack vectors through secure configuration, minimal services, and continuous monitoring. Misconfigured systems and default settings create easily exploitable vulnerabilities that attackers systematically scan for and exploit.
