@@ -12,18 +12,18 @@ The disconnect arises because PCI DSS organizes requirements by control type (ne
 
 This documentation reorganizes PCI DSS requirements into 12 defensible frameworks aligned with real-world threat scenarios:
 
-1. **Phishing Attack Defense** - Multi-layer controls that assume perimeter bypass
-2. **Insider Threat Defense** - Protecting against authorized users who become adversaries
-3. **Data Exfiltration Prevention** - Detecting and blocking cardholder data theft
-4. **Denial-of-Service Mitigation** - Maintaining availability under attack
-5. **Zero-Day Vulnerability Response** - Racing attackers to patch deployment
-6. **Third-Party Vendor Risk** - Securing the extended enterprise perimeter
-7. **System Hardening** - Reducing attack surface and blast radius
-8. **Authentication & Authorization** - Verifying identity and enforcing least privilege
-9. **Encryption & Key Management** - Rendering stolen data useless
-10. **Physical Security** - Protecting the atoms, not just the bits
-11. **Security Policy & Governance** - Institutionalizing security as culture
-12. **Security Awareness Training** - Building the human firewall
+1. **[Phishing Attack Defense](frameworks/phishing-defense.md)** - Multi-layer controls that assume perimeter bypass
+2. **[Insider Threat Defense](frameworks/insider-threat-defense.md)** - Protecting against authorized users who become adversaries
+3. **[Data Exfiltration Prevention](frameworks/data-exfiltration-prevention.md)** - Detecting and blocking cardholder data theft
+4. **[Denial-of-Service Mitigation](frameworks/dos-attack-mitigation.md)** - Maintaining availability under attack
+5. **[Zero-Day Vulnerability Response](frameworks/zero-day-response.md)** - Racing attackers to patch deployment
+6. **[Third-Party Vendor Risk](frameworks/vendor-risk-management.md)** - Securing the extended enterprise perimeter
+7. **[System Hardening](frameworks/system-hardening.md)** - Reducing attack surface and blast radius
+8. **[Authentication & Authorization](frameworks/authentication-authorization.md)** - Verifying identity and enforcing least privilege
+9. **[Encryption & Key Management](frameworks/encryption-key-mgmt.md)** - Rendering stolen data useless
+10. **[Physical Security](frameworks/physical-security.md)** - Protecting the atoms, not just the bits
+11. **[Security Policy & Governance](frameworks/policy-governance.md)** - Institutionalizing security as culture
+12. **[Security Awareness Training](frameworks/security-training.md)** - Building the human firewall
 
 Each framework:
 
