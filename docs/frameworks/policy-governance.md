@@ -1,5 +1,3 @@
-# policy-governance.md
-
 # Policy and Procedure Governance Framework: Building the Organizational Discipline That Makes Security Sustainable
 
 Policy and procedure governance establishes the organizational framework for security controls. Technical implementations require documented standards, defined processes, and clear responsibilities. Without governance, security becomes ad hoc and inconsistent.
