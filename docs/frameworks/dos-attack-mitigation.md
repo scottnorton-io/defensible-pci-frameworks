@@ -1,5 +1,3 @@
-# dos-attack-mitigation.md
-
 # DoS Attack Mitigation Framework: Keeping Services Available Under Fire
 
 Denial-of-service attacks aim to exhaust system resources—network bandwidth, CPU capacity, memory, or application connection pools—rendering services unavailable to legitimate users. Unlike data theft attacks, DoS succeeds not by stealing information but by preventing business operations. For payment processing systems, unavailability directly translates to lost revenue and customer trust.
