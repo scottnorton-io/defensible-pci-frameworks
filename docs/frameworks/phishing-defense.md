@@ -1,5 +1,3 @@
-# phishing-defense.md
-
 # Phishing Attack Defense Framework: Shield Your Business from One of the Oldest Tricks in the Book
 
 Phishing remains effective because it targets human decision-making rather than technical vulnerabilities. A well-crafted phishing email bypasses perimeter defenses by arriving through legitimate channels and triggers actions that grant attackers initial access.
