@@ -1,0 +1,29 @@
+# .gitignore
+
+# Editor and IDE
+
+.vscode/
+
+.idea/
+
+*.swp
+
+*.swo
+
+*~
+
+.DS_Store
+
+# Build artifacts
+
+_site/
+
+.jekyll-cache/
+
+.jekyll-metadata
+
+Gemfile.lock
+
+# OS files
+
+Thumbs.db
