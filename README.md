@@ -56,33 +56,33 @@ PCI DSS compliance doesn't prevent breaches. Security teams that understand how 
 
 ## Repository Structure
 
-```text
-.
-├── docs/
-│   ├── [00-introduction.md](<http://00-introduction.md>)                      # Framework overview and philosophy
-│   ├── [01-executive-summary.md](<http://01-executive-summary.md>)            # Business case and approach
-│   ├── [02-framework-architecture.md](<http://02-framework-architecture.md>)  # How frameworks interconnect
-│   ├── frameworks/
-│   │   ├── [phishing-defense.md](<http://phishing-defense.md>)
-│   │   ├── [insider-threat-defense.md](<http://insider-threat-defense.md>)
-│   │   ├── [data-exfiltration.md](<http://data-exfiltration.md>)
-│   │   ├── [dos-mitigation.md](<http://dos-mitigation.md>)
-│   │   ├── [zero-day-response.md](<http://zero-day-response.md>)
-│   │   ├── [vendor-risk.md](<http://vendor-risk.md>)
-│   │   ├── [system-hardening.md](<http://system-hardening.md>)
-│   │   ├── [authentication-authorization.md](<http://authentication-authorization.md>)
-│   │   ├── [encryption-key-mgmt.md](<http://encryption-key-mgmt.md>)
-│   │   ├── [physical-security.md](<http://physical-security.md>)
-│   │   ├── [policy-governance.md](<http://policy-governance.md>)
-│   │   └── [security-training.md](<http://security-training.md>)
-│   ├── [addendum-platform0.md](<http://addendum-platform0.md>)                # Reference implementation patterns
-│   ├── [98-closing-summary.md](<http://98-closing-summary.md>)                # Implementation guidance
-│   └── [99-glossary.md](<http://99-glossary.md>)                              # Terms and acronyms
-├── LICENSE
-├── [README.md](<http://README.md>)
-├── [CHANGELOG.md](<http://CHANGELOG.md>)
-└── [CONTRIBUTING.md](<http://CONTRIBUTING.md>)
-```
+| Path | Description | Link |
+|:-----|:------------|:----:|
+| **Root** | | |
+| `├── README.md` | Main documentation and getting started guide | [📄](README.md) |
+| `├── CONTRIBUTING.md` | Contribution guidelines | [📄](CONTRIBUTING.md) |
+| `├── CHANGELOG.md` | Version history and releases | [📄](CHANGELOG.md) |
+| `├── LICENSE` | MIT License | [📄](LICENSE) |
+| **docs/** | Core documentation | |
+| `├── 00-introduction.md` | Overview and philosophy | [📄](docs/00-introduction.md) |
+| `├── 01-executive-summary.md` | Business case and ROI | [📄](docs/01-executive-summary.md) |
+| `├── 02-framework-architecture.md` | How frameworks interconnect | [📄](docs/02-framework-architecture.md) |
+| `├── 98-closing-summary.md` | Implementation guidance | [📄](docs/98-closing-summary.md) |
+| `├── 99-glossary.md` | Terms and definitions | [📄](docs/99-glossary.md) |
+| `└── addendum-platform0.md` | Platform0 reference implementation | [📄](docs/addendum-platform0.md) |
+| **docs/frameworks/** | 12 defensive frameworks | |
+| `├── phishing-defense.md` | Email filtering, training, MFA, detection | [📄](docs/frameworks/phishing-defense.md) |
+| `├── insider-threat-defense.md` | Access controls, monitoring, auditing | [📄](docs/frameworks/insider-threat-defense.md) |
+| `├── data-exfiltration-prevention.md` | Network segmentation, DLP, encryption | [📄](docs/frameworks/data-exfiltration-prevention.md) |
+| `├── dos-attack-mitigation.md` | Traffic monitoring, rate limiting, failover | [📄](docs/frameworks/dos-attack-mitigation.md) |
+| `├── zero-day-response.md` | Patch management, WAF, incident response | [📄](docs/frameworks/zero-day-response.md) |
+| `├── vendor-risk-management.md` | Due diligence, contracts, monitoring | [📄](docs/frameworks/vendor-risk-management.md) |
+| `├── system-hardening.md` | Secure config, minimal services, FIM | [📄](docs/frameworks/system-hardening.md) |
+| `├── authentication-authorization.md` | Identity management, MFA, RBAC | [📄](docs/frameworks/authentication-authorization.md) |
+| `├── encryption-key-mgmt.md` | Data-at-rest, data-in-transit, key lifecycle | [📄](docs/frameworks/encryption-key-mgmt.md) |
+| `├── physical-security.md` | Facility access, surveillance, media destruction | [📄](docs/frameworks/physical-security.md) |
+| `├── policy-governance.md` | Policy documentation, procedures, compliance | [📄](docs/frameworks/policy-governance.md) |
+| `└── security-training.md` | Awareness training, simulations, measurement | [📄](docs/frameworks/security-training.md) |
 
 ## Quick Start
 
