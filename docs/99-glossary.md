@@ -1,5 +1,3 @@
-# 99-glossary.md
-
 # Glossary
 
 ## General Security Terms
