@@ -1,5 +1,3 @@
-# 01-executive-summary.md
-
 # Executive Summary: Defensible PCI Frameworks
 
 ## What This Is
