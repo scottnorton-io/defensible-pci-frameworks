@@ -13,31 +13,26 @@ Traditional PCI DSS compliance approaches organize by control type (firewalls, e
 Rather than treating PCI DSS as 272 independent checkboxes, these frameworks group requirements into defensive architectures aligned with attacker objectives:
 
 ### Threat Prevention (Building Walls)
-
-1. **Phishing Attack Defense** - Four-layer cascade defense against credential theft
-2. **System Hardening** - Reduce attack surface and minimize blast radius
-3. **Physical Security** - Protect the hardware and facilities hosting payment systems
+1. **[Phishing Attack Defense](frameworks/phishing-defense.md)** - Four-layer cascade defense against credential theft
+7. **[System Hardening](frameworks/system-hardening.md)** - Reduce attack surface and minimize blast radius
+10. **[Physical Security](frameworks/physical-security.md)** - Protect the hardware and facilities hosting payment systems
 
 ### Access Control (Guarding the Gates)
-
-1. **Authentication & Authorization** - Verify identity and enforce least privilege
-2. **Insider Threat Defense** - Detect and prevent abuse of legitimate access
-3. **Third-Party Vendor Risk** - Secure the extended enterprise perimeter
+8. **[Authentication & Authorization](frameworks/authentication-authorization.md)** - Verify identity and enforce least privilege
+2. **[Insider Threat Defense](frameworks/insider-threat-defense.md)** - Detect and prevent abuse of legitimate access
+6. **[Third-Party Vendor Risk](frameworks/vendor-risk-management.md)** - Secure the extended enterprise perimeter
 
 ### Data Protection (Protecting the Crown Jewels)
-
-1. **Data Exfiltration Prevention** - Five-layer assume-breach defense architecture
-2. **Encryption & Key Management** - Render stolen data useless without keys
+3. **[Data Exfiltration Prevention](frameworks/data-exfiltration-prevention.md)** - Five-layer assume-breach defense architecture
+9. **[Encryption & Key Management](frameworks/encryption-key-mgmt.md)** - Render stolen data useless without keys
 
 ### Resilience (Staying in the Fight)
-
-1. **Denial-of-Service Mitigation** - Maintain availability under attack
-2. **Zero-Day Vulnerability Response** - Race attackers to patch deployment
+4. **[Denial-of-Service Mitigation](frameworks/dos-attack-mitigation.md)** - Maintain availability under attack
+5. **[Zero-Day Vulnerability Response](frameworks/zero-day-response.md)** - Race attackers to patch deployment
 
 ### Foundation (Making Security Stick)
-
-1. **Security Policy & Governance** - Institutionalize security as culture
-2. **Security Awareness Training** - Build the human firewall
+11. **[Security Policy & Governance](frameworks/policy-governance.md)** - Institutionalize security as culture
+12. **[Security Awareness Training](frameworks/security-training.md)** - Build the human firewall
 
 ## Key Differentiators
 
