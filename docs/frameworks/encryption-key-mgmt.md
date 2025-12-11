@@ -1,5 +1,3 @@
-# encryption-key-mgmt.md
-
 # Encryption and Key Management Framework: Making Sure Stolen Data Is Useless
 
 Encryption transforms plaintext data into ciphertext unusable without decryption keys. It provides the last line of defense—even when perimeter, access, and monitoring controls fail, encrypted data remains protected. However, encryption effectiveness depends entirely on key management.
