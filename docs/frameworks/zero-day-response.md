@@ -1,5 +1,3 @@
-# zero-day-response.md
-
 # Zero-Day Vulnerability Response Framework: Racing Against Weaponization
 
 Zero-day vulnerabilities—security flaws unknown to vendors and without available patches—represent asymmetric warfare where attackers exploit while defenders scramble to respond. The window between public disclosure and widespread exploitation often measures in hours. Organizations that detect, assess, and mitigate zero-days faster than attackers can weaponize them survive. Those that don't become case studies.
