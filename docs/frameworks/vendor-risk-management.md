@@ -1,5 +1,3 @@
-# vendor-risk-management.md
-
 # Third-Party Vendor Risk Management Framework: When Trust Becomes a Vulnerability
 
 Third-party vendors extend the security perimeter beyond organizational boundaries. Vendors require access to internal systems, handle sensitive data, and integrate with critical infrastructure. Each vendor relationship creates potential attack paths that bypass perimeter defenses. The 2013 Target breach demonstrated that world-class internal security means nothing when attackers enter through a trusted vendor's compromised credentials.
