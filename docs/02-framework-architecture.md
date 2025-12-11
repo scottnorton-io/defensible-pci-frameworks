@@ -1,5 +1,3 @@
-# 02-framework-architecture.md
-
 # Framework Architecture: How the Pieces Fit Together
 
 ## Overview
