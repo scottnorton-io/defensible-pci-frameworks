@@ -1,5 +1,10 @@
 # Defensible PCI DSS v4.0.1 Frameworks
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-v4.0.1-red.svg)
+![Frameworks](https://img.shields.io/badge/Frameworks-12-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 **Reorganizing 272 requirements by threat category so you can build actual defense, not just tick compliance boxes.**
 
 ```text
@@ -36,18 +41,18 @@ PCI DSS compliance doesn't prevent breaches. Security teams that understand how 
 
 ## The 12 Defensive Frameworks
 
-1. **Phishing Attack Defense** - Email filtering, training, MFA, behavioral detection
-2. **Insider Threat Defense** - Access controls, activity monitoring, privileged action auditing
-3. **Data Exfiltration Prevention** - Network segmentation, DLP, encryption, egress monitoring
-4. **DoS Attack Mitigation** - Traffic monitoring, rate limiting, capacity planning, failover
-5. **Zero-Day Vulnerability Response** - Patch management, WAF, IDS/IPS, incident response
-6. **Third-Party Vendor Risk** - Due diligence, contracts, monitoring, compliance verification
-7. **System Hardening** - Secure configuration, minimal services, FIM, change management
-8. **Authentication & Authorization** - Identity management, MFA, RBAC, lifecycle management
-9. **ncryption & Key Management** - Data-at-rest, data-in-transit, key lifecycle, HSM
-10. **Physical Security** - Facility access, surveillance, media destruction, device tampering
-11. **Policy & Governance** - Policy documentation, procedures, incident response, compliance
-12. **Security Training** - Baseline awareness, role-specific training, simulations, measurement
+1. **[Phishing Attack Defense](docs/frameworks/phishing-defense.md)** - Email filtering, training, MFA, behavioral detection
+2. **[Insider Threat Defense](docs/frameworks/insider-threat-defense.md)** - Access controls, activity monitoring, privileged action auditing
+3. **[Data Exfiltration Prevention](docs/frameworks/data-exfiltration-prevention.md)** - Network segmentation, DLP, encryption, egress monitoring
+4. **[DoS Attack Mitigation](docs/frameworks/dos-attack-mitigation.md)** - Traffic monitoring, rate limiting, capacity planning, failover
+5. **[Zero-Day Vulnerability Response](docs/frameworks/zero-day-response.md)** - Patch management, WAF, IDS/IPS, incident response
+6. **[Third-Party Vendor Risk](docs/frameworks/vendor-risk-management.md)** - Due diligence, contracts, monitoring, compliance verification
+7. **[System Hardening](docs/frameworks/system-hardening.md)** - Secure configuration, minimal services, FIM, change management
+8. **[Authentication & Authorization](docs/frameworks/authentication-authorization.md)** - Identity management, MFA, RBAC, lifecycle management
+9. **[Encryption & Key Management](docs/frameworks/encryption-key-mgmt.md)** - Data-at-rest, data-in-transit, key lifecycle, HSM
+10. **[Physical Security](docs/frameworks/physical-security.md)** - Facility access, surveillance, media destruction, device tampering
+11. **[Policy & Governance](docs/frameworks/policy-governance.md)** - Policy documentation, procedures, incident response, compliance
+12. **[Security Training](docs/frameworks/security-training.md)** - Baseline awareness, role-specific training, simulations, measurement
 
 ## Repository Structure
 
